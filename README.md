@@ -36,5 +36,6 @@ peer reviewer for Elsevier and Springer journals.
 ## Links
 
 [Website](https://sivasaikrishnasuryadevara.github.io/) ·
+[Repo stats dashboard](https://sivasaikrishnasuryadevara.github.io/github-dashboard.html) ·
 [Google Scholar](https://scholar.google.com/citations?user=8uy_LdgAAAAJ&hl=en) ·
 [LinkedIn](https://linkedin.com/in/sivasaikrishnasuryadevara)
