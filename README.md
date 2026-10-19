@@ -20,6 +20,13 @@ policy-as-code that keeps regulated cloud environments compliant.
 Supporting repos: [ml-model-pipeline](https://github.com/SivaSaiKrishnaSuryadevara/ml-model-pipeline) (non-LLM failure classifier) ·
 [devops-infra-toolkit](https://github.com/SivaSaiKrishnaSuryadevara/devops-infra-toolkit) (Compose, Kubernetes and Terraform for the reference workload)
 
+## GitHub stats
+
+**devops-infra-toolkit:** ![Stars](https://img.shields.io/github/stars/SivaSaiKrishnaSuryadevara/devops-infra-toolkit?style=social) ![Forks](https://img.shields.io/github/forks/SivaSaiKrishnaSuryadevara/devops-infra-toolkit?style=social)
+
+**predictive-cicd-remediation:** ![Stars](https://img.shields.io/github/stars/SivaSaiKrishnaSuryadevara/predictive-cicd-remediation?style=social) ![Forks](https://img.shields.io/github/forks/SivaSaiKrishnaSuryadevara/predictive-cicd-remediation?style=social)
+
+
 ## Intellectual property
 
 - **Indian patent application 202641038921** (sole inventor), *A System and Method for Predictive CI/CD
