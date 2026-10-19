@@ -22,10 +22,10 @@ Supporting repos: [ml-model-pipeline](https://github.com/SivaSaiKrishnaSuryadeva
 
 ## GitHub stats
 
-**devops-infra-toolkit:** ![Stars](https://img.shields.io/github/stars/SivaSaiKrishnaSuryadevara/devops-infra-toolkit?style=social) ![Forks](https://img.shields.io/github/forks/SivaSaiKrishnaSuryadevara/devops-infra-toolkit?style=social)
-
-**predictive-cicd-remediation:** ![Stars](https://img.shields.io/github/stars/SivaSaiKrishnaSuryadevara/predictive-cicd-remediation?style=social) ![Forks](https://img.shields.io/github/forks/SivaSaiKrishnaSuryadevara/predictive-cicd-remediation?style=social)
-
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/github-dashboard-dark.png">
+    <img alt="GitHub stars and forks dashboard" src="assets/github-dashboard-light.png" width="900">
+</picture>
 
 ## Intellectual property
 
