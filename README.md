@@ -28,12 +28,12 @@ Supporting repos: [ml-model-pipeline](https://github.com/SivaSaiKrishnaSuryadeva
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=SivaSaiKrishnaSuryadevara&show_icons=true&theme=dark">
-  <img alt="Siva's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SivaSaiKrishnaSuryadevara&show_icons=true&theme=default" height="165">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=SivaSaiKrishnaSuryadevara&show_icons=true&theme=dark&disable_animations=true">
+    <img alt="Siva's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SivaSaiKrishnaSuryadevara&show_icons=true&theme=default&disable_animations=true" height="165">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SivaSaiKrishnaSuryadevara&layout=compact&theme=dark">
-  <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SivaSaiKrishnaSuryadevara&layout=compact&theme=default" height="165">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SivaSaiKrishnaSuryadevara&layout=compact&theme=dark&disable_animations=true">
+  <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SivaSaiKrishnaSuryadevara&layout=compact&theme=default&disable_animations=true" height="165">
 </picture>
 
 ## Intellectual property
