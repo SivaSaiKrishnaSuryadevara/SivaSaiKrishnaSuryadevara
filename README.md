@@ -27,6 +27,15 @@ Supporting repos: [ml-model-pipeline](https://github.com/SivaSaiKrishnaSuryadeva
     <img alt="GitHub stars and forks dashboard" src="assets/github-dashboard-light.png" width="900">
 </picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=SivaSaiKrishnaSuryadevara&show_icons=true&theme=dark">
+  <img alt="Siva's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SivaSaiKrishnaSuryadevara&show_icons=true&theme=default" height="165">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SivaSaiKrishnaSuryadevara&layout=compact&theme=dark">
+  <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SivaSaiKrishnaSuryadevara&layout=compact&theme=default" height="165">
+</picture>
+
 ## Intellectual property
 
 - **Indian patent application 202641038921** (sole inventor), *A System and Method for Predictive CI/CD
