@@ -21,12 +21,6 @@ Supporting repos: [ml-model-pipeline](https://github.com/SivaSaiKrishnaSuryadeva
 [devops-infra-toolkit](https://github.com/SivaSaiKrishnaSuryadevara/devops-infra-toolkit) (Compose, Kubernetes and Terraform for the reference workload)
 
 ## GitHub stats
-
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/github-dashboard-dark.png">
-    <img alt="GitHub stars and forks dashboard" src="assets/github-dashboard-light.png" width="900">
-</picture>
-
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=SivaSaiKrishnaSuryadevara&show_icons=true&theme=dark&disable_animations=true">
     <img alt="Siva's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SivaSaiKrishnaSuryadevara&show_icons=true&theme=default&disable_animations=true" height="165">
