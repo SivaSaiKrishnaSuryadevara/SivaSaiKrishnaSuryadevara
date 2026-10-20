@@ -20,10 +20,22 @@ policy-as-code that keeps regulated cloud environments compliant.
 Supporting repos: [ml-model-pipeline](https://github.com/SivaSaiKrishnaSuryadevara/ml-model-pipeline) (non-LLM failure classifier) ·
 [devops-infra-toolkit](https://github.com/SivaSaiKrishnaSuryadevara/devops-infra-toolkit) (Compose, Kubernetes and Terraform for the reference workload)
 
+## Upstream contributions
+
+Fixes I have proposed to the AWS and Kubernetes tooling I use day to day. Each was reproduced and tested before submission.
+
+| Project | Contribution | Status |
+| --- | --- | --- |
+| [aws/aws-cdk](https://github.com/aws/aws-cdk) | [#39410](https://github.com/aws/aws-cdk/pull/39410): root-caused [#30000](https://github.com/aws/aws-cdk/issues/30000) (Helm `null` values dropped outside TypeScript) to jsii's `any` serialization; documented a verified workaround for the `aws-eks` and `aws-eks-v2` modules | Open |
+| [eksctl-io/eksctl](https://github.com/eksctl-io/eksctl) | [#8907](https://github.com/eksctl-io/eksctl/pull/8907): EFS CSI well-known policy synced with the driver (S3 Files support), with a new policy test; issue [#8906](https://github.com/eksctl-io/eksctl/issues/8906) | Open |
+| [awslabs/cdk-eks-blueprints](https://github.com/awslabs/cdk-eks-blueprints) | [#1264](https://github.com/awslabs/cdk-eks-blueprints/pull/1264): EBS and EFS CSI driver IAM policies synced with upstream, with the project's first tests for them | Open |
+| [terraform-aws-modules/terraform-aws-iam](https://github.com/terraform-aws-modules/terraform-aws-iam) | [#664](https://github.com/terraform-aws-modules/terraform-aws-iam/pull/664) (EFS CSI S3 Files permissions), [#665](https://github.com/terraform-aws-modules/terraform-aws-iam/pull/665) (missing EBS CSI permissions) | Open |
+| [terraform-aws-modules/terraform-aws-eks-pod-identity](https://github.com/terraform-aws-modules/terraform-aws-eks-pod-identity) | [#71](https://github.com/terraform-aws-modules/terraform-aws-eks-pod-identity/pull/71): EFS CSI S3 Files permissions | Open |
+
 ## GitHub stats
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=SivaSaiKrishnaSuryadevara&show_icons=true&theme=dark&disable_animations=true">
-    <img alt="Siva's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SivaSaiKrishnaSuryadevara&show_icons=true&theme=default&disable_animations=true" height="165">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=SivaSaiKrishnaSuryadevara&show_icons=true&hide=stars&hide_rank=true&theme=dark&disable_animations=true">
+    <img alt="Siva's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SivaSaiKrishnaSuryadevara&show_icons=true&hide=stars&hide_rank=true&theme=default&disable_animations=true" height="165">
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SivaSaiKrishnaSuryadevara&layout=compact&theme=dark&disable_animations=true">
